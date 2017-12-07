@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## My Personal Blog records Programming Tips
 
 You can use the [editor on GitHub](https://github.com/kanglieyong/kanglieyong.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
